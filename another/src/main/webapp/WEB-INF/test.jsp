@@ -7,6 +7,6 @@
 <title>标题</title>
 </head>
 <body>
-	Fuck U
+	好蛋疼
 </body>
 </html>
