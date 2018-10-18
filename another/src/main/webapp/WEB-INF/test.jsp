@@ -7,6 +7,6 @@
 <title>标题</title>
 </head>
 <body>
-	好蛋疼，你大爷
+	好蛋疼，心冷
 </body>
 </html>
